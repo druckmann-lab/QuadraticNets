@@ -7,6 +7,10 @@ arXiv:2001.00098, 2019. https://arxiv.org/abs/2001.00098
 
 ## Figures 2 and 3: Two-Layer Networks
 
+* `varyHidden.py` - Main script with data generation
+* `varyHidden_load.py` - Main script for loading dataset
+* `networkFiles.py` - Network classes
+
 ## Figure 4 and 5: Deep Networks
 
 * `varyHidden_DeepSynthetic.py` - Main script for experiments in Figure 4
